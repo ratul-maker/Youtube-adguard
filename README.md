@@ -1,1 +1,12 @@
-# Youtube-adguard
+||youtube.com^$important
+||googlevideo.com^$important
+||youtube-nocookie.com^$important
+||ytimg.com^$important
+||s.ytimg.com^$important
+||i.ytimg.com^$important
+||youtube.googleapis.com^$important
+||youtubei.googleapis.com^$important
+||pagead2.googlesyndication.com^$important
+||googleads.g.doubleclick.net^$important
+||pubads.g.doubleclick.net^$important
+||yt3.ggpht.com^$important
